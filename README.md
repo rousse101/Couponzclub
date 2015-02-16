@@ -1,3 +1,2 @@
 # Couponzclub
-
-Hello included <a href="http://google.com">couponzclub</a> demo
+Couponzclub is a online coupon portal which features many coupons from various online shopping sites.It has 4 categories and also has freebie category .Users can find cheap item deals around indian e-com sites .So one stop solution for shopping lovers.<a href="http://couponzclub.com">couponzclub</a> recently released its chrome addon and firefox addon , so that user can directly visit coupons for their desired store.Couponzclub has <a href="http://couponzclub.com/new-jabong-coupons-get-maximum-discount/">jabong coupons</a>,snapdeal coupons,flipkart coupons,<a href="http://couponzclub.com/zovi-coupons-code/">zovi coupons</a> etc.
